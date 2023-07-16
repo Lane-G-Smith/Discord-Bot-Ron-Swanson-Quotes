@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
-        <img     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrC8Oi57vadxpfhVLgAPPaS9vwXzn38aAjQ&usqp=CAU"
+        <img     src="https://cutewallpaper.org/24/ron-swanson-png/ron-swanson-blank-template-imgflip.png"
         width="60"
         height="60"
         />
